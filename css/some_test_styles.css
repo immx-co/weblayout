@@ -1,0 +1,67 @@
+h1, h2 {
+    font-size: 30px;
+    font-style: oblique;
+}
+
+body {
+    background-color: cyan;
+}
+
+.paragraphs {
+    display: block;
+    background-color: RGB(249, 201, 59);
+    font-size: 20px;
+    padding-left: 50px;
+    padding-right: 50px;
+    color: darkmagenta;
+}
+
+.test-class {
+    color: red;
+}
+
+.heading {
+    font-size: 35px;
+    background: deepskyblue;
+    padding-left: 15px;
+    color: darkolivegreen;
+}
+
+.width {
+    font-size: 30px;
+}
+
+.width p{
+    margin-bottom: 5px;
+}
+
+* {
+    box-sizing: border-box;
+}
+
+.parent {
+    font-size: 0px;
+    background-color: indianred;
+    width: 1000px;
+}
+
+.exampletest {
+    font-size: 20px;
+    border: 1px solid black;
+    width: 33%;
+    display: inline-block;
+}
+
+.exampletest:not(:last-child) {
+    margin-right: 5px;
+}
+
+html {
+    box-sizing: border-box;
+}
+
+.margintest {
+    font-size: 30px;
+    display: inline;
+    margin: 2em;
+}
