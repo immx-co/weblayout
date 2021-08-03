@@ -40,6 +40,11 @@ body {
     padding: 24px 49px;
 }
 
-/* a:not(:last-child) {
-    margin-bottom: 25px;
+/* div.main-content a:not(:last-of-type) {
+    color: red;
 } */
+
+.margin-bottom50 a {
+    /* color: red; */
+    margin-bottom: 25px;
+}
