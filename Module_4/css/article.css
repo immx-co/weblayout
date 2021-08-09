@@ -148,7 +148,7 @@ figure {
 }
 
 figure figcaption {
-    margin-top: 0;
+    padding: 19px 0;
     border: 1px solid #b6b6b6;
     border-top: none;
     font-size: 14px;
