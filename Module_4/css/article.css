@@ -156,3 +156,7 @@ figure figcaption {
     text-align: center;
 }
 
+img {
+    display: block;
+}
+
